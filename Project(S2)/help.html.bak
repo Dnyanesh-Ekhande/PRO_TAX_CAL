@@ -1,0 +1,16 @@
+<html>
+<body bgcolor="#004B8F" link="white" vlink="yellow" alink="grey">
+<center>
+<img src="help.jpg">
+<img src="help1.jpg">
+<center>
+<p>"PROPERTY TAX CALCULATION SYSTEM" is useful for both that is for PROPERTY OWNER as well as ADMIN(servey engineer).
+	
+	ADMIN : Can add new entry for property owner in the database.
+		Also can update the different type of TAX RATES.
+	PROPERTY OWNER: Can view TAX RATES.
+			Can print tax bill.
+
+</p>
+</body>
+</html>

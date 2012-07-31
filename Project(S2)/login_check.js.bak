@@ -1,0 +1,18 @@
+function login()
+{
+	var pwd=document.getElementById("idpassword");
+	if(pwd.value!="admin")
+		alert("LOGIN FAILD !!! WRONG USER NAME OR PASSWORD");
+	else
+		alert("LOGIN SUCCESSFUL !!!");
+		
+}
+
+function init()
+{
+	var pwd=document.getElementById("iduname");
+	var uname=document.getElementById("idpassword");
+	pwd.value=""
+	uname.value=""
+}
+
